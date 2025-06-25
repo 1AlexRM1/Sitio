@@ -1,0 +1,30 @@
+body{
+	background:linear-gradient(to top,#7973D7,#8EDAEA,#A49FE8);
+}
+
+p{
+	font-family: New Roman;
+	font-size: 14px;
+	color: #474BD6;
+}
+
+h1{
+	text-align: center;
+}
+
+td{
+	text-align: center;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.texto{
+	border: 2px dashed  #474BD6;
+}
+
+#contenedor{
+	border: 3px double #474BD6;
+}
